@@ -13,31 +13,59 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# Basic
+title: 小仙女
+subtitle: 个人站
+description: 欢迎来到我的个人站~
+# description: Just remember your name,no matter where you are in the world,I must and will go to see you. 
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# 头像里面的标题
+avatarTitle: 喜欢你
+# 头像里面的描述
+avatarDesc: 那双眼动人
+url: ""
+
+# Social
+social:
+    github: nidemingzishi
+
+    mail: 2465199797@qq.com
+
+    
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 996937070e5ddaaeb56a26ae2c575105 
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: blue
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于她, description: about, url: '/about'}  
+
+
+# gem install jekyll-paginate 需要安装
+# gem install jekyll-sitemap 需要安装
+# 需要到Gemfile文件中去声明一下
+# gem 'jekyll-paginate'
+# gem 'jekyll-sitemap'
+
+# Pagination 
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
