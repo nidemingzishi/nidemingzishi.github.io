@@ -1,18 +1,13 @@
 ---
-layout: about
-title: About
+layout: page
+title: 她
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+一个傻傻的人。  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+一个笨笨的人。 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+一个傻傻笨笨的人。
 
-
-[jekyll-organization]: https://github.com/jekyll
+一个漂亮傻笨的人。
