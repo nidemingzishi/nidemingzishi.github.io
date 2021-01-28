@@ -1,9 +1,9 @@
 
 # Basic
 title: 小仙女
-subtitle: 个人站
-description: 欢迎来到我的个人站~
-# description: Just remember your name,no matter where you are in the world,I must and will go to see you. 
+subtitle: LULU
+# description: 欢迎来到我的个人站~
+description: Just remember your name,no matter where you are in the world,I must and will go to see you. 
 
 # 头像里面的标题
 avatarTitle: 喜欢你
@@ -13,7 +13,7 @@ url: ""
 
 # Social
 social:
-    github: nidemingzishi
+    github: 
 
     mail: 781782953@qq.com
 
@@ -35,11 +35,11 @@ cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 人间告白
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 所有, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于她, description: about, url: '/about'}  
 
