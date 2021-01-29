@@ -15,13 +15,13 @@ url: ""
 social:
     github: 
 
-    mail: 781782953@qq.com
+    mail: 2465199797@qq.com
 
     
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 996937070e5ddaaeb56a26ae2c575105 
+    id: 33179dc204b27803c5962ed10ed7fe63 
 
 permalink: /:year/:month/:title/
 
