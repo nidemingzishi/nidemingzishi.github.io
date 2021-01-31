@@ -1,14 +1,14 @@
 
 # Basic
-title: 小仙女
-subtitle: LULU
-description: 有人说，这个世界上，海最深邃，干净又透明。我想，我也看到了。
+title: LULU
+subtitle: 小仙女
+description: 有人说，这个世界上，海最深邃，干净又透明。我想，我看到了。
 # description: Just remember your name,no matter where you are in the world,I must and will go to see you. 
 
 # 头像里面的标题
 avatarTitle: 喜欢你
 # 头像里面的描述
-avatarDesc: 那双眼动人
+avatarDesc: 不再隐藏
 url: ""
 
 # Social
@@ -39,7 +39,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有, description: archive, url: '/archive'}   
+    # - {title: 所有, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于她, description: about, url: '/about'}  
 
