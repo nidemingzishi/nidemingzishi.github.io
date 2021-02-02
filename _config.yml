@@ -8,7 +8,7 @@ description: 有人说，这个世界上，海最深邃，干净又透明。我�
 # 头像里面的标题
 avatarTitle: 喜欢你
 # 头像里面的描述
-avatarDesc: 公之于众
+avatarDesc: 告知于天下
 url: ""
 
 # Social
@@ -35,13 +35,13 @@ cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
-    title: 人间告白
+    title: 人间
 
 # Navigation buttons in the front page.s
 nav:
     # - {title: 所有, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于她, description: about, url: '/about'}  
+    - {title: 告白, description: tags, url: '/tags'}      
+    - {title: 诗, description: about, url: '/about'}  
 
 
 # gem install jekyll-paginate 需要安装
