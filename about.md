@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 诗
-permalink: /about/
+permalink: /poem/
 ---
 
 <br/>
