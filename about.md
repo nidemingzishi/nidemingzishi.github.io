@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 她
+title: 诗
 permalink: /about/
 ---
 
@@ -32,6 +32,6 @@ permalink: /about/
 
 可我此时  
 
-已写不出任何的诗  
+却写不出任何的她  
 
 <br/>
