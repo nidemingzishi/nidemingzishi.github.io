@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 第六集 Romantic Story 番外篇 
+title: 第四集 Romantic Story 番外篇 
 date: 2021-01-30  
 tags:  人间真情
 ---
@@ -193,5 +193,5 @@ I will hug you tightly
 <br/> 
 <br/> 
 <br/> 
-版权所有，真情不可翻版：[人间告白](http://renjiangaobai.com) » [ 第六集 Romantic Story 番外篇 ](http://renjiangaobai.com/2021/01/romantic-story/)  
+版权所有，真情不可翻版：[人间告白](http://renjiangaobai.com) » [ 第四集 Romantic Story 番外篇 ](http://renjiangaobai.com/2021/01/romantic-story/)  
 <br/>
