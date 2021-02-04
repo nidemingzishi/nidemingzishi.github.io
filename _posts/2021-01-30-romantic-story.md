@@ -10,7 +10,7 @@ tags:  人间真情
 <br/>
 
 
-![](/images/romantic/a.jpeg){:height="30%" width="30%"}
+![](/images/romantic/a.jpeg){:height="40%" width="40%"}
 <center>
 这里人来人往 脚步都很匆忙
 </center>
@@ -172,14 +172,14 @@ tags:  人间真情
 <br/> 
 <br/>
 
-![](/images/romantic/v.jpg){:height="30%" width="30%"}
+![](/images/romantic/v.jpg){:height="40%" width="40%"}
 <center>
 When I see you again 
 </center>
 <br/> 
 <br/>
 
-![](/images/romantic/w2.jpg){:height="30%" width="30%"}
+![](/images/romantic/w2.jpg){:height="40%" width="40%"}
 <center>
 I will hug you tightly
 </center>
